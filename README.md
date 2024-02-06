@@ -62,7 +62,7 @@ Analysis Steps:
    - Conducted ERP analysis to investigate distinct neural responses for each finger movement task.
 
 5. Autocorrelation:
-   - Explored temporal relationships between electrodes through autocorrelation analysis.
+   - Explored temporal relationships across electrodes through autocorrelation analysis.
 
 6. Phase-Amplitude Coupling:
    - Investigated theta-gamma coupling, demonstrating the orchestrated interplay of theta and gamma oscillations.
