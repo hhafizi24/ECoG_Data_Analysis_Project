@@ -33,7 +33,7 @@ Each datafile has 7 variables, the ones used in this project are:
 5 – little finger
 
 
-There is an additional file, are named “##_stim.mat” in the folder data/##, where ## denotes the 2 letter patient code. This file contains a variable “stim”, which are labeled epochs encasing the actual movement types. The code is as follows:
+There is an additional file named “##_stim.mat” in the folder data/## where ## denotes the 2 letter patient code. This file contains a variable “stim”, which are labeled epochs encasing the actual movement types. The code is as follows:
 0 – Inter-stimulus interval
 1 – thumb
 2 – index finger
