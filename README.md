@@ -1,4 +1,4 @@
-Neural Dynamics of Finger Movement
+Overview: This project explores the neural dynamics of finger movements using electrocorticography (ECoG) data collected from a human patient. The analysis involves various techniques, including time-domain analysis, frequency-domain analysis, event-related potentials (ERP), autocorrelation, and phase-amplitude coupling.
 
 Ethics statement: All patients participated in a purely voluntary manner, after providing informed written consent, under experimental protocols approved by the Institutional Review Board of the University of Washington (#12193). All patient data was anonymized according to IRB protocol, in accordance with HIPAA mandate. These data originally appeared in the manuscript “Human Motor Cortical Activity Is Selectively Phase- Entrained on Underlying Rhythms” published in PLoS Computational Biology in 2012 [Reference].
 
@@ -33,7 +33,6 @@ Each datafile has 7 variables, the ones used in this project are:
 5 – little finger
 
 
-
 There is an additional file, are named “##_stim.mat” in the folder data/##, where ## denotes the 2 letter patient code. This file contains a variable “stim”, which are labeled epochs encasing the actual movement types. The code is as follows:
 0 – Inter-stimulus interval
 1 – thumb
@@ -42,8 +41,6 @@ There is an additional file, are named “##_stim.mat” in the folder data/##, 
 4 – ring finger
 5 – little finger
 
-Overview:
-This project explores the neural dynamics associated with finger movements using electrocorticography (ECoG) data. The analysis involves various techniques, including time-domain analysis, frequency-domain analysis, event-related potentials (ERP), autocorrelation, and phase-amplitude coupling.
 
 Data:
 This project uses an open dataset from the Stanford Libraries, the link to the dataset is below. https://exhibits.stanford.edu/data/catalog/zk881ps0522
